@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1405609748 source:e:\program\random_num\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<algorithm>
+
+1418551516 source:h:\program\random_num\main.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+	<cstdio>
+	<cstring>
+	<algorithm>
+
